@@ -6,7 +6,7 @@ BEGIN
     EXEC('CREATE SCHEMA banking');
 END
 GO
-
+-- testing checkin 
 
 /* =========================================
    TABLE: branches
